@@ -1,0 +1,12 @@
+# datasets & model weights (too large / regenerable)
+/data/
+/models/
+
+# python
+__pycache__/
+*.pyc
+
+# leftover scratch files (duplicates / unrelated notes)
+code.txt
+extracted_text.txt
+*.pdf
